@@ -2,7 +2,7 @@
  ## CS 2400 (Introduction to Computer Science I), Spring 2019-2020, Ohio University, EECS
 
  #### Contact: David Chelberg (chelberg@ohio.edu)
-
+ ##### Based on document from Nasseef Abukamail.
 ---
 
   Welcome to CS 2400. In this class we will be writing programs in C++. In order to prepare for class, you need to install a C++ compiler and other software tools on your own machines. Please keep in mind that all the tools needed for the class are also available on our lab machines (Stocker 107 and 307A). The labs are open all day and can be accessed [remotely](#linux-commands-and-remote-loginfile-transfer). We will also be using [Git/GitHub](#gitgithub) for source/version control. Your projects (homework assignments) will be in our GitHub [2400 classroom](https://github.com/2400-fl-19).
@@ -19,7 +19,7 @@
 ---
 
 - [CS 2400 (Introduction to Computer Science I), Spring 2019-2020, Ohio University, EECS](#cs-2400-introduction-to-computer-science-i-spring-2019-2020-ohio-university-eecs)
-    - [Contact: Nasseef Abukamail (abukamai@ohio.edu)](#contact-nasseef-abukamail-abukamaiohioedu)
+    - [Contact: David Chelberg (chelberg@ohio.edu)](#contact-david-chelberg-chelbergohioedu)
   - [Installing C/C++ compiler](#installing-cc-compiler)
   - [Compiling and running the examples in this repository](#compiling-and-running-the-examples-in-this-repository)
     - [Create a Makefile and use the make command](#create-a-makefile-and-use-the-make-command)
