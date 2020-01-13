@@ -10,7 +10,7 @@
   **Important:** In order to be able to use your own computer to do the assignments and examples in this class you need to install the following:
   - C/C++ compiler like GNU C++  or MinGW 
   - Git tools
-  - A text editor such as VSCode
+  - A text editor such as VSCode, or Emacs
   
   > Installation instructions are outlined below.
 
@@ -19,8 +19,8 @@
 ---
 
 - [CS 2400 (Introduction to Computer Science I), Spring 2019-2020, Ohio University, EECS](#cs-2400-introduction-to-computer-science-i-spring-2019-2020-ohio-university-eecs)
-    - [Contact: David Chelberg (chelberg@ohio.edu)](#contact-david-chelberg-chelbergohioedu)
-  - [Installing C/C++ compiler](#installing-cc-compiler)
+- [Contact: David Chelberg (chelberg@ohio.edu)](#contact-david-chelberg-chelbergohioedu)
+- [Installing C/C++ compiler](#installing-cc-compiler)
   - [Compiling and running the examples in this repository](#compiling-and-running-the-examples-in-this-repository)
     - [Create a Makefile and use the make command](#create-a-makefile-and-use-the-make-command)
     - [Running a program:](#running-a-program)
@@ -99,9 +99,9 @@ Create a file called `Makefile` (no extension). See the sample file to for a pro
 You need a good programming editor (**DO NOT USE WINDOWS Notepad**). I recommend either Visual Studio Code or Atom. They are both free and highly customizable. See below for other editors.
 
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Emacs](https://www.gnu.org/software/emacs)
 - [Atom Editor](https://atom.io)
 - [Sublime Text](https://www.sublimetext.com) $$
-- [Emacs](https://www.gnu.org/software/emacs)
 - [Vim](https://www.vim.org)
 - [nano](https://www.nano-editor.org/)
 - and many others ....
