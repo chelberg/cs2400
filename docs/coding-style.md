@@ -16,21 +16,76 @@
     * Author name
     * Date
     * Description of the program
+	* Below is an example:
+	  ```cpp
+/******************************************************************* 
+*  \file <filename goes here, e.g. prog1.cc>
+*  \brief <brief desription of program goes here>
+*                                                                     
+*  Author:      your name
+*  Email:       your email address
+*                                                                    
+*  Lab Section: section number and instructor's name
+*                                                                    
+*  Description: brief description of the program                    
+*                                                                    
+*  Date:        date of completion
+*                                                                    
+*******************************************************************/
+  ```
+The following is an example of an introductory comment block that
+follows the format above:
+
+	  ```cpp
+/********************************************************************
+*  \file prog1.cc
+*  \brief Project 1  -- Video Calculator
+*                                                                    
+*  Author:      Elwood Scuggins
+*  Email:       Clueless@ace.cs.ohio.edu
+*                                                                    
+*  Lab Section: 10 (Chris Hayes)
+*                                                                    
+*  Description: This program inputs the total number of minutes, 
+*               the number of minutes for commercials, and the 
+*               number of minutes for episodes.  The program 
+*               computes the total number of minutes for videos, 
+*               the number of videos, and the number of seconds 
+*               left over.
+*                                                                    
+*  Date:        January 26, 2020
+*                                                                    
+********************************************************************/
+  ```
+
 * Each statement should be on a line by itself
 * Add documentation, for each of the functions, above the prototype. We will be using [Doxygen](http://www.doxygen.nl/manual/docblocks.html) style of documentation. The comments should start with `/**`.  For example:
 
-  ```cpp
-  /**
-   *  Function:   findSpaceCost
-   *              calculates and returns the charge for shipping cargo
-   *              between two planets.
-   *
-   *  @param distance - distance in miles between two planets
-   *  @param weight   - weight in pounds of item being shipped
-   *  @return - the space cost in dollars
-   */
-  double finSpaceCost(double distance, double weight);
-
+	  ```cpp
+      /******************************************************************
+      *                                                                  
+      *  Function:   find_space_cost
+      *                                                                  
+      *  Purpose:    calculates and returns the charge for shipping cargo  
+      *              between two planets.                                  
+      *                                                                  
+      *  Parameters: @param distance - distance in miles between two planets
+      *              @param weight   - weight in pounds of item being shipped
+      *
+      *              @return - the charge for shipping cargo between
+      *                        two planets 
+      *
+      * Member/Global Variables: none
+      *
+      * Pre Conditions: variables distance and weight have valid values
+      *
+      * Post Conditions: returns the cost in dollars of shipping a
+      *                  package that weighs weight pounds a distance
+      *                  of distance miles.
+      *
+      * Calls:       function cargo_rates
+      *                                                                  
+      *******************************************************************/
   ```
 
 * Use triple slashes `///` for [Doxygen](http://www.doxygen.nl/manual/docblocks.html) style line comments
