@@ -17,46 +17,46 @@
     * Date
     * Description of the program
 	* Below is an example:
-	  ```cpp
-/******************************************************************* 
-*  \file <filename goes here, e.g. prog1.cc>
-*  \brief <brief desription of program goes here>
-*                                                                     
-*  Author:      your name
-*  Email:       your email address
-*                                                                    
-*  Lab Section: section number and instructor's name
-*                                                                    
-*  Description: brief description of the program                    
-*                                                                    
-*  Date:        date of completion
-*                                                                    
-*******************************************************************/
-  ```
-The following is an example of an introductory comment block that
-follows the format above:
+	```cpp
+	/******************************************************************* 
+	*  \file <filename goes here, e.g. prog1.cc>
+	*  \brief <brief desription of program goes here>
+	*                                                                     
+	*  Author:      your name
+	*  Email:       your email address
+	*                                                                    
+	*  Lab Section: section number and instructor's name
+	*                                                                    
+	*  Description: brief description of the program                    
+	*                                                                    
+	*  Date:        date of completion
+	*                                                                    
+	*******************************************************************/
+	```
+	* The following is an example of an introductory comment block that
+	* follows the format above:
 
-	  ```cpp
-/********************************************************************
-*  \file prog1.cc
-*  \brief Project 1  -- Video Calculator
-*                                                                    
-*  Author:      Elwood Scuggins
-*  Email:       Clueless@ace.cs.ohio.edu
-*                                                                    
-*  Lab Section: 10 (Chris Hayes)
-*                                                                    
-*  Description: This program inputs the total number of minutes, 
-*               the number of minutes for commercials, and the 
-*               number of minutes for episodes.  The program 
-*               computes the total number of minutes for videos, 
-*               the number of videos, and the number of seconds 
-*               left over.
-*                                                                    
-*  Date:        January 26, 2020
-*                                                                    
-********************************************************************/
-  ```
+	```cpp
+	/********************************************************************
+	*  \file prog1.cc
+	*  \brief Project 1  -- Video Calculator
+	*                                                                    
+	*  Author:      Elwood Scuggins
+	*  Email:       Clueless@ace.cs.ohio.edu
+	*                                                                    
+	*  Lab Section: 10 (Chris Hayes)
+	*                                                                    
+	*  Description: This program inputs the total number of minutes, 
+	*               the number of minutes for commercials, and the 
+	*               number of minutes for episodes.  The program 
+	*               computes the total number of minutes for videos, 
+	*               the number of videos, and the number of seconds 
+	*               left over.
+	*                                                                    
+	*  Date:        January 26, 2020
+	*                                                                    
+	********************************************************************/
+	```
 
 * Each statement should be on a line by itself
 * Add documentation, for each of the functions, above the prototype. We will be using [Doxygen](http://www.doxygen.nl/manual/docblocks.html) style of documentation. The comments should start with `/**`.  For example:
