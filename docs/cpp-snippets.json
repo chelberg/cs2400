@@ -17,12 +17,12 @@
 	"CPP Program": {
 		"prefix": "prog",
 		"body": [
-		"/*",
+		"/**",
 		" *        File: ${TM_FILENAME}",
-		" *      Author: Nasseef Abukamail",
+		" *      Author: David Chelberg",
 		" *        Date: ${CURRENT_MONTH_NAME} ${CURRENT_DATE}, ${CURRENT_YEAR}",
 		" * Description: Add Description",
-		" */",
+		" **/",
 		"",
 		"#include <iostream>",
 		"#include <iomanip>",
