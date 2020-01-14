@@ -46,11 +46,11 @@ grep xyz *                # Search all files for the content "xyz"
 
 ### Editing Files
 ```console
+emacs filename.cc         # Open filename.cc in emacs
 code filename.cc          # Open filename.cc in VS Code
 atom filename.cc          # Open filename.cc in Atom
 nano filename.cc          # Open filename.cc in nano
 vim  filename.cc          # Open filename.cc in vim
-emacs filename.cc         # Open filename.cc in emacs
 ```
 
 ### Compiling and Running C++ Programs
