@@ -33,8 +33,7 @@
 	*                                                                    
 	*******************************************************************/
 	```
-	* The following is an example of an introductory comment block that
-	* follows the format above:
+	* The following is an example of an introductory comment block that follows the format above:
 
 	```cpp
 	/********************************************************************
@@ -60,32 +59,31 @@
 
 * Each statement should be on a line by itself
 * Add documentation, for each of the functions, above the prototype. We will be using [Doxygen](http://www.doxygen.nl/manual/docblocks.html) style of documentation. The comments should start with `/**`.  For example:
-
-	  ```cpp
-      /******************************************************************
-      *                                                                  
-      *  Function:   find_space_cost
-      *                                                                  
-      *  Purpose:    calculates and returns the charge for shipping cargo  
-      *              between two planets.                                  
-      *                                                                  
-      *  Parameters: @param distance - distance in miles between two planets
-      *              @param weight   - weight in pounds of item being shipped
-      *
-      *              @return - the charge for shipping cargo between
-      *                        two planets 
-      *
-      * Member/Global Variables: none
-      *
-      * Pre Conditions: variables distance and weight have valid values
-      *
-      * Post Conditions: returns the cost in dollars of shipping a
-      *                  package that weighs weight pounds a distance
-      *                  of distance miles.
-      *
-      * Calls:       function cargo_rates
-      *                                                                  
-      *******************************************************************/
+  ```cpp
+	  /*******************************************************************
+	  *
+	  *  Function:   find_space_cost
+	  *                                                                  
+	  *  Purpose:    calculates and returns the charge for shipping cargo  
+	  *              between two planets.                                  
+	  *                                                                  
+	  *  Parameters: @param distance - distance in miles between two planets
+	  *              @param weight   - weight in pounds of item being shipped
+	  *
+	  *              @return - the charge for shipping cargo between
+	  *                        two planets 
+	  *
+	  * Member/Global Variables: none
+	  *
+	  * Pre Conditions: variables distance and weight have valid values
+	  *
+	  * Post Conditions: returns the cost in dollars of shipping a
+	  *                  package that weighs weight pounds a distance
+	  *                  of distance miles.
+	  *
+	  * Calls:       function cargo_rates
+	  *                                                                  
+	  *******************************************************************/
   ```
 
 * Use triple slashes `///` for [Doxygen](http://www.doxygen.nl/manual/docblocks.html) style line comments
