@@ -1,0 +1,42 @@
+bin00001> ./lec3-3  
+size of char is 1
+size of short is 2
+size of int is 4
+size of long is 4
+size of longlong is 8
+size of float is 4
+size of double is 8
+size of long double is 12
+
+----------------------------------------------------------------
+
+chelberg-mac% ./lec3-3
+size of char is 1
+size of short is 2
+size of int is 4
+size of long is 8
+size of longlong is 8
+size of float is 4
+size of double is 8
+size of long double is 16
+
+----------------------------------------------------------------
+p2> ./lec3-3
+size of char is 1
+size of short is 2
+size of int is 4
+size of long is 4
+size of longlong is 8
+size of float is 4
+size of double is 8
+size of long double is 16
+----------------------------------------------------------------
+odd03% ./lec3-3
+size of char is 1
+size of short is 2
+size of int is 4
+size of long is 8
+size of longlong is 8
+size of float is 4
+size of double is 8
+size of long double is 16
