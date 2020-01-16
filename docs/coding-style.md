@@ -27,7 +27,7 @@
 	*                                                                    
 	*  Lab Section: section number and instructor's name
 	*                                                                    
-	*  Description: brief description of the program                    
+	*  Description: description of the program                    
 	*                                                                    
 	*  Date:        date of completion
 	*                                                                    
