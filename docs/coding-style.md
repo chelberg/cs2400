@@ -21,16 +21,16 @@
 	/******************************************************************* 
 	*  \file <filename goes here, e.g. prog1.cc>
 	*  \brief <brief desription of program goes here>
-	*                                                                     
+	*  	
 	*  Author:      your name
 	*  Email:       your email address
-	*                                                                    
+	*  	
 	*  Lab Section: section number and instructor's name
-	*                                                                    
-	*  Description: description of the program                    
-	*                                                                    
+	* 
+	*  Description: description of the program	
+	*	
 	*  Date:        date of completion
-	*                                                                    
+	*
 	*******************************************************************/
 	```
 	* The following is an example of an introductory comment block that follows the format above:
