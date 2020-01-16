@@ -156,10 +156,10 @@ Last login: Tue Oct 15 16:31:39 2019 from xxx.xxx.xxx.xxx
 mmay@pu1:~$ 
 ```
 
-And if I wanted to copy a file from Nasseef's directory on the lab machines I can do:
+And if I wanted to copy a file from Chelberg's course directory on the lab machines I can do:
 
 ```bash
-mark@ToneGeoff:~$ scp mmay@pu1.cs.ohio.edu:/home/nabukama/2400/lab1.cc .
+mark@ToneGeoff:~$ scp mmay@pu1.cs.ohio.edu:/home/cs2400/code-egs/lab1/lab1.cc .
 mmay@pu1.cs.ohio.edu's password:
 lab1.cc                                                                                                 100%  409     8.5KB/s   00:00
 mark@ToneGeoff:~$ ls

@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 
+# settings
+.vscode
+test.*
+genmake.cc
+#debug information
+*.dSYM
+# Prerequisites
+*.d
+
 # Compiled Object files
 *.slo
 *.lo

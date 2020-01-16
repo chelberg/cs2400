@@ -29,7 +29,7 @@
 		"#include <cstdlib>",
 		"using namespace std;",
 		"",
-		"//function prototypes",
+		"///function prototypes",
 		"",
 		"int main(int argc, char const *argv[]) {",
 		"",
