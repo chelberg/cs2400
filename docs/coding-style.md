@@ -3,6 +3,10 @@
 
 ---
 
+For a more comprehensive style guide, please also take a look at:
+
+[Comprehensive Style Guide](http://oucsace.cs.ohio.edu/~chelberg/classes/361/style-guide.html)
+
 * Use a consistant style for naming identifiers
   * ```camelCase``` or ```snake_case```
 * Use meaningful variable names that describe the content of the variable, the purpose of the function, or the class.
